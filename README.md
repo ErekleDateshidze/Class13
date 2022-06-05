@@ -1,2 +1,2 @@
-# Class13
+# Quiz13
 Javascript
